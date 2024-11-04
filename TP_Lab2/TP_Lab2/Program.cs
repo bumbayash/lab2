@@ -74,7 +74,6 @@ namespace TP_Lab2
         public override void makeSound()
         {
             Console.WriteLine(
-                Age + 
                 "\n" +
                 "           ^\\\n" +
                 " /        //o__o\n" +
@@ -83,7 +82,6 @@ namespace TP_Lab2
                 " \\         /\n" +
                 "  \\ \\----\\ \\\n" +
                 "   \\_\\_   \\_\\_ \n" 
-                + Name
                 );
         }
 
@@ -103,7 +101,6 @@ namespace TP_Lab2
             if (value % 2 == 0)
             {
                 Console.WriteLine(
-                    Age +
                     "" +
                     "    /\\___/\\\n" +
                     "   /       \\\n" +
@@ -115,8 +112,7 @@ namespace TP_Lab2
                     "   l        l\\ \\\n" +
                     "   l        l/ /\n" +
                     "   l  l l   l /\n" +
-                    "   \\ ml lm /_/ \n" +
-                Name);
+                    "   \\ ml lm /_/ \n");
             }
             else
             {
@@ -128,7 +124,7 @@ namespace TP_Lab2
                 "`  \\/   ^ /\n" +
                 "   | \\|| ||\n" +
                 "   \\ '|| ||\n" +
-                "    \\)()-()) [the cat is not in the mood to meow]\n" + Name);
+                "    \\)()-()) [the cat is not in the mood to meow]\n");
             }
         }
     }
