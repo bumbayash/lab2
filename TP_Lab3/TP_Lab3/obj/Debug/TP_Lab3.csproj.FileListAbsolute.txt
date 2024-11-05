@@ -1,0 +1,7 @@
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\TP_Lab3\TP_Lab3\bin\Debug\TP_Lab3.exe.config
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\TP_Lab3\TP_Lab3\bin\Debug\TP_Lab3.exe
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\TP_Lab3\TP_Lab3\bin\Debug\TP_Lab3.pdb
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\TP_Lab3\TP_Lab3\obj\Debug\TP_Lab3.csproj.AssemblyReference.cache
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\TP_Lab3\TP_Lab3\obj\Debug\TP_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\TP_Lab3\TP_Lab3\obj\Debug\TP_Lab3.exe
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\TP_Lab3\TP_Lab3\obj\Debug\TP_Lab3.pdb
