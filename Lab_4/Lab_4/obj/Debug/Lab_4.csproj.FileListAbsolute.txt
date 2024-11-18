@@ -1,0 +1,7 @@
+C:\Users\vpch8\source\repos\Lab_4\Lab_4\bin\Debug\Lab_4.exe.config
+C:\Users\vpch8\source\repos\Lab_4\Lab_4\bin\Debug\Lab_4.exe
+C:\Users\vpch8\source\repos\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+C:\Users\vpch8\source\repos\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.AssemblyReference.cache
+C:\Users\vpch8\source\repos\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+C:\Users\vpch8\source\repos\Lab_4\Lab_4\obj\Debug\Lab_4.exe
+C:\Users\vpch8\source\repos\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
