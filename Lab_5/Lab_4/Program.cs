@@ -8,6 +8,13 @@ using System.Threading.Tasks;
 
 namespace Lab_4
 {
+    public static class RandomExtensions
+    {
+        public static bool NextBool(this Random random)
+        {
+            return random.Next(0, 2) == 1;
+        }
+    }
 
 
     public enum CharacterClass
@@ -143,77 +150,85 @@ namespace Lab_4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("--------------------------------------------------------");
+            Console.WriteLine("----------ТЕСТОВЫЙ ПРОГОН ЦЕПОЧКИ ОБЯЗАННОСТЕЙ----------");
+            int incomingDamage = 100;
+            float debuff = 1.5f;
+            bool hasInvulnerability = true;
+            int barrierHealth = 100;
+            Console.WriteLine($"Тестовые данные:\n Входящий урон [{incomingDamage}];\n Множитель [{debuff}];\n Неуязвим [{hasInvulnerability}];\n Ед. здоровья у щита [{barrierHealth}]");
+
+            IDamageHandler chainStart = new BuffDebuffDamageHandler(debuff);
+            IDamageHandler chainFinish = chainStart;
+
+            if (hasInvulnerability)
+            {
+                chainFinish = chainFinish.SetNext(new InvulnerabilityDamageHandler());
+            }
+
+            if (barrierHealth > 0)
+            {
+                chainFinish = chainFinish.SetNext(new BarrierDamageHandler(barrierHealth));
+            }
+
+            incomingDamage = chainStart.Handle(incomingDamage);
+            GameLogger.getInstance().log($"Итоговый урон: {incomingDamage}");
+            Console.WriteLine("----------------ТЕСТОВЫЙ ПРОГОН ЗАВЕРШЕН----------------");
+            Console.WriteLine("--------------------------------------------------------");
+
+            GameEventPublisher gameEventPublisher = new GameEventPublisher();
+
+            GameEventListener consoleListener = new GameConsoleEventListener();
+            gameEventPublisher.Subscribe(GameEvent.GAME_START, consoleListener);
+            gameEventPublisher.Subscribe(GameEvent.GAME_OVER, consoleListener);
+            gameEventPublisher.Subscribe(GameEvent.GAME_VICTORY, consoleListener);
+
+            // Для работы с очками игрока в качестве имплементации используется кеширующая прокси
             IPlayerProfileRepository repository = new PlayerProfileCacheRepository();
+
+            GameEventListener updaterListener = new GameUpdaterEventListener(repository);
+            gameEventPublisher.Subscribe(GameEvent.GAME_OVER, updaterListener);
 
             Console.WriteLine("Создайте своего персонажа:");
 
-            Console.WriteLine("Введите имя:");
+            Console.Write("Введите имя: ");
             string name = Console.ReadLine();
 
             PlayerProfile playerProfile = repository.GetProfile(name);
-            Console.WriteLine($"Текущий счет игрока {playerProfile.Name}: {playerProfile.Score}");
+            Console.WriteLine($"Текущий счёт игрока {name}: {playerProfile.Score}");
 
-            Console.WriteLine("Выберите класс из списка: " + string.Join(", ", Enum.GetNames(typeof(CharacterClass))));
-            CharacterClass characterClass = (CharacterClass)Enum.Parse(typeof(CharacterClass), Console.ReadLine().ToUpperInvariant());
+            Console.Write("Выберите класс из списка: " + string.Join(", ", Enum.GetNames(typeof(CharacterClass))) + "\n");
+            CharacterClass characterClass = (CharacterClass)Enum.Parse(typeof(CharacterClass), Console.ReadLine());
 
             EquipmentChest startingEquipmentChest = getChest(characterClass);
             Armor startingArmor = startingEquipmentChest.getArmor();
             Weapon startingWeapon = startingEquipmentChest.getWeapon();
 
             PlayableCharacter player = new PlayableCharacter.Builder()
-            .SetName(name)
-            .SetCharacterClass(characterClass)
-            .SetArmor(startingArmor)
-            .SetWeapon(startingWeapon)
-            .Build();
+                .SetName(name)
+                .SetCharacterClass(characterClass)
+                .SetArmor(startingArmor)
+                .SetWeapon(startingWeapon)
+                .Build();
+
+            gameEventPublisher.NotifyAll(GameEvent.GAME_START, playerProfile);
 
             GameLogger gameLogger = GameLogger.getInstance();
-            gameLogger.log($"{player.getName()} очнулся на распутье!");
+            gameLogger.log($"{name} очнулся на распутье!");
 
-            Console.WriteLine("Куда вы двинетесь? Выберите локацию: (мистический лес, проклятый особняк, логово дракона)");
+            gameLogger.log($"{name} присоединился компаньон!!!");
+            Companion companion = new Companion(characterClass);
+
+            Console.Write("Куда вы двинетесь? Выберите локацию: (мистический лес, проклятый особняк, логово дракона) ");
             string locationName = Console.ReadLine();
             Location location = getLocation(locationName);
 
-            gameLogger.log($"{player.getName()} отправился в {locationName}");
+            gameLogger.log($"{name} отправился в {locationName}");
+
             Enemy enemy = location.spawnEnemy();
-            bool strongEnemyCurse = new Random().NextDouble() >= 0.0;
-            if (strongEnemyCurse)
-            {
-                gameLogger.log($"Боги особенно немилостивы к {name}, сегодня его ждет страшная битва...");
-                enemy = AddEnemyModifiers(enemy);
-            }
-            gameLogger.log($"{player.getName()} на пути встречает {enemy.getName()}, начинается бой!");
 
-            Random random = new Random();
-            while (player.isAlive() && enemy.isAlive())
-            {
-                Console.WriteLine("Введите что-нибудь чтобы атаковать!");
-                Console.ReadLine();
-                player.attack(enemy);
-                bool stunned = random.NextDouble() > 0.5;
-                if (stunned)
-                {
-                    gameLogger.log($"{enemy.getName()} был оглушен атакой {player.getName()}!");
-                    continue;
-                }
-                enemy.attack(player);
-            }
-            Console.WriteLine();
-
-            if (!player.isAlive())
-            {
-                gameLogger.log($"{player.getName()} был убит...");
-                repository.UpdateHighScore(name, 0);
-                playerProfile = repository.GetProfile(name);
-                Console.WriteLine($"Новый счет игрока {playerProfile.Name}: {playerProfile.Score}");
-                return;
-            }
-            gameLogger.log($"Злой {enemy.getName()} был побеждён! {player.getName()} отправился дальше по тропе судьбы...");
-
-            int score = GetScore(locationName, strongEnemyCurse);
-            repository.UpdateHighScore(name, score);
-            playerProfile = repository.GetProfile(name);
-            Console.WriteLine($"Новый счет игрока {playerProfile.Name}: {playerProfile.Score}");
+            // С шансом в 50% игрок встречает сильного врага
+            bool strongEnemyCurse = new Random().NextBool();
         }
         private static Enemy AddEnemyModifiers(Enemy enemy)
         {

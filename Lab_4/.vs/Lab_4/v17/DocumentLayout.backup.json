@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\",
+  "WorkspaceRootPath": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\source\\repos\\Lab_4\\lab_4\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\source\\repos\\Lab_4\\lab_4\\equipmentchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\equipmentchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|c:\\users\\vpch8\\source\\repos\\lab_4\\lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\source\\repos\\Lab_4\\lab_4\\playablecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\playablecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\source\\repos\\Lab_4\\lab_4\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\lab_4\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\source\\repos\\Lab_4\\lab_4\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|c:\\users\\vpch8\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0442\u043F \u043B\u0430\u0431\\lab_4\\lab_4\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\lab_4\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\source\\repos\\Lab_4\\lab_4\\gamelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\lab_4\\gamelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\gamelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\source\\repos\\Lab_4\\lab_4\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\lab_4\\equipmentchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\equipmentchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\lab_4\\playablecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\playablecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\lab_4\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,30 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\Lab_4\\Program.cs",
-              "RelativeDocumentMoniker": "Lab_4\\Program.cs",
-              "ToolTip": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\Lab_4\\Program.cs",
-              "RelativeToolTip": "Lab_4\\Program.cs",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAYwFYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:37:09.885Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Location.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\Lab_4\\Location.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\Lab_4\\Location.cs",
               "RelativeDocumentMoniker": "Lab_4\\Location.cs",
-              "ToolTip": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\Lab_4\\Location.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\Lab_4\\Location.cs",
               "RelativeToolTip": "Lab_4\\Location.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAADwvyAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T15:48:27.793Z",
               "EditorCaption": ""
@@ -73,48 +64,60 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EquipmentChest.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\Lab_4\\EquipmentChest.cs",
-              "RelativeDocumentMoniker": "Lab_4\\EquipmentChest.cs",
-              "ToolTip": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\Lab_4\\EquipmentChest.cs",
-              "RelativeToolTip": "Lab_4\\EquipmentChest.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAArwEYAAABBAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\Lab_4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_4\\Program.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\Lab_4\\Program.cs",
+              "RelativeToolTip": "Lab_4\\Program.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAawOQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:46:59.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayableCharacter.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\Lab_4\\PlayableCharacter.cs",
-              "RelativeDocumentMoniker": "Lab_4\\PlayableCharacter.cs",
-              "ToolTip": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\Lab_4\\PlayableCharacter.cs",
-              "RelativeToolTip": "Lab_4\\PlayableCharacter.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAiwAwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:39:03.078Z",
+              "WhenOpened": "2024-11-18T15:37:09.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\Lab_4\\Weapon.cs",
-              "RelativeDocumentMoniker": "Lab_4\\Weapon.cs",
-              "ToolTip": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\Lab_4\\Weapon.cs",
-              "RelativeToolTip": "Lab_4\\Weapon.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAIwFwAAAAAAAAAAAAAAA==",
+              "Title": "EquipmentChest.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\Lab_4\\EquipmentChest.cs",
+              "RelativeDocumentMoniker": "Lab_4\\EquipmentChest.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\Lab_4\\EquipmentChest.cs",
+              "RelativeToolTip": "Lab_4\\EquipmentChest.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAArwEYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:41:02.014Z"
+              "WhenOpened": "2024-11-18T15:46:59.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayableCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\Lab_4\\PlayableCharacter.cs",
+              "RelativeDocumentMoniker": "Lab_4\\PlayableCharacter.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\Lab_4\\PlayableCharacter.cs",
+              "RelativeToolTip": "Lab_4\\PlayableCharacter.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:39:03.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\Lab_4\\Weapon.cs",
+              "RelativeDocumentMoniker": "Lab_4\\Weapon.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\Lab_4\\Weapon.cs",
+              "RelativeToolTip": "Lab_4\\Weapon.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:41:02.014Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Armor.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\Lab_4\\Armor.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\Lab_4\\Armor.cs",
               "RelativeDocumentMoniker": "Lab_4\\Armor.cs",
-              "ToolTip": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\Lab_4\\Armor.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\Lab_4\\Armor.cs",
               "RelativeToolTip": "Lab_4\\Armor.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAcwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,31 +125,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\Lab_4\\Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\Lab_4\\Enemy.cs",
               "RelativeDocumentMoniker": "Lab_4\\Enemy.cs",
-              "ToolTip": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\Lab_4\\Enemy.cs*",
-              "RelativeToolTip": "Lab_4\\Enemy.cs*",
-              "ViewState": "AgIAAKYAAAAAAAAAAAAiwK4AAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\Lab_4\\Enemy.cs",
+              "RelativeToolTip": "Lab_4\\Enemy.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAawFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:38:16.399Z"
+              "WhenOpened": "2024-11-18T15:38:16.399Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "GameLogger.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\Lab_4\\GameLogger.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\Lab_4\\GameLogger.cs",
               "RelativeDocumentMoniker": "Lab_4\\GameLogger.cs",
-              "ToolTip": "C:\\Users\\vpch8\\source\\repos\\Lab_4\\Lab_4\\GameLogger.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4\\Lab_4\\GameLogger.cs",
               "RelativeToolTip": "Lab_4\\GameLogger.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:37:42.443Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-11-18T15:37:42.443Z",
+              "EditorCaption": ""
             }
           ]
         }
