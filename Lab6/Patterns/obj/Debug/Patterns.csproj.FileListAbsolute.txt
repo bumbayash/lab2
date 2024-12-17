@@ -1,0 +1,297 @@
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\obj\Debug\Patterns.csproj.AssemblyReference.cache
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\obj\Debug\Patterns.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Patterns.exe
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Patterns.pdb
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\obj\Debug\Patterns.exe
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\obj\Debug\Patterns.pdb
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.Testing.Platform.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.Testing.Platform.MSBuild.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\System.Buffers.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\System.Memory.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.Testing.Platform.xml
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.Testing.Platform.MSBuild.xml
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\System.Buffers.xml
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\System.Memory.xml
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\obj\Debug\Patterns.gentestingplatformentrypointinputcache.cache
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\obj\Debug\Patterns.genautoregisteredextensionsinputcache.cache
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\obj\Debug\AutoRegisteredExtensions.cs
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\obj\Debug\TestPlatformEntryPoint.cs
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\obj\Debug\Patterns.csproj.CopyComplete
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Castle.Core.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Moq.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\Castle.Core.xml
+C:\Users\ASUS FX505DT\source\repos\Git_MISIS\Patterns\Patterns\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Patterns.exe
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Patterns.pdb
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Castle.Core.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.Testing.Platform.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.Testing.Platform.MSBuild.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Moq.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\System.Buffers.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\System.Collections.Immutable.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\System.Memory.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Castle.Core.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.Testing.Platform.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.Testing.Platform.MSBuild.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\System.Buffers.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\System.Collections.Immutable.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\System.Memory.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\obj\Debug\Patterns.csproj.AssemblyReference.cache
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\obj\Debug\Patterns.gentestingplatformentrypointinputcache.cache
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\obj\Debug\Patterns.genautoregisteredextensionsinputcache.cache
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\obj\Debug\AutoRegisteredExtensions.cs
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\obj\Debug\TestPlatformEntryPoint.cs
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\obj\Debug\Patterns.csproj.Up2Date
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\obj\Debug\Patterns.exe
+C:\Users\vpch8\OneDrive\Рабочий стол\ТП Лаб\Lab6\Patterns\obj\Debug\Patterns.pdb

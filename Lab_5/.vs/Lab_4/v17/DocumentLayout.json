@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "WorkspaceRootPath": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|c:\\users\\vpch8\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0442\u043F \u043B\u0430\u0431\\lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab_4\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|c:\\users\\vpch8\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0442\u043F \u043B\u0430\u0431\\lab_5\\lab_4\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab_4\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\lab_4\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab_4\\companion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\lab_4\\companion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\companion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab_4\\playablecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\lab_4\\playablecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\playablecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab_4\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\lab_4\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab_4\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\lab_4\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab_4\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\lab_4\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab_4\\gamelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\lab_4\\gamelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\gamelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab_4\\equipmentchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\lab_4\\equipmentchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\equipmentchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\lab_4\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\lab_4\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1084C1ED-7BD2-40AB-B5C2-B58DD309FF91}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,68 +54,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Handler.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\Handler.cs",
-              "RelativeDocumentMoniker": "Lab_4\\Handler.cs",
-              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\Handler.cs",
-              "RelativeToolTip": "Lab_4\\Handler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T19:23:02.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\Event.cs",
-              "RelativeDocumentMoniker": "Lab_4\\Event.cs",
-              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\Event.cs",
-              "RelativeToolTip": "Lab_4\\Event.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAswD0AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T19:11:52.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Companion.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\Companion.cs",
-              "RelativeDocumentMoniker": "Lab_4\\Companion.cs",
-              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\Companion.cs",
-              "RelativeToolTip": "Lab_4\\Companion.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAwwDYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T18:45:11.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\Program.cs",
-              "RelativeDocumentMoniker": "Lab_4\\Program.cs",
-              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\Program.cs",
-              "RelativeToolTip": "Lab_4\\Program.cs",
-              "ViewState": "AgIAALIAAAAAAAAAAAAiwMIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:37:09.885Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\Handler.cs",
+              "RelativeDocumentMoniker": "Lab_4\\Handler.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\Handler.cs",
+              "RelativeToolTip": "Lab_4\\Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:23:02.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\Event.cs",
+              "RelativeDocumentMoniker": "Lab_4\\Event.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\Event.cs",
+              "RelativeToolTip": "Lab_4\\Event.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:11:52.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Companion.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\Companion.cs",
+              "RelativeDocumentMoniker": "Lab_4\\Companion.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\Companion.cs",
+              "RelativeToolTip": "Lab_4\\Companion.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:45:11.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_4\\Program.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\Program.cs",
+              "RelativeToolTip": "Lab_4\\Program.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAIwMIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:37:09.885Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Location.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\Location.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\Location.cs",
               "RelativeDocumentMoniker": "Lab_4\\Location.cs",
-              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\Location.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\Location.cs",
               "RelativeToolTip": "Lab_4\\Location.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -125,9 +125,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "EquipmentChest.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\EquipmentChest.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\EquipmentChest.cs",
               "RelativeDocumentMoniker": "Lab_4\\EquipmentChest.cs",
-              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\EquipmentChest.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\EquipmentChest.cs",
               "RelativeToolTip": "Lab_4\\EquipmentChest.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAArwEYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,9 +137,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PlayableCharacter.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\PlayableCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\PlayableCharacter.cs",
               "RelativeDocumentMoniker": "Lab_4\\PlayableCharacter.cs",
-              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\PlayableCharacter.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\PlayableCharacter.cs",
               "RelativeToolTip": "Lab_4\\PlayableCharacter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -149,9 +149,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\Weapon.cs",
               "RelativeDocumentMoniker": "Lab_4\\Weapon.cs",
-              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\Weapon.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\Weapon.cs",
               "RelativeToolTip": "Lab_4\\Weapon.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAcwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -161,9 +161,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Armor.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\Armor.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\Armor.cs",
               "RelativeDocumentMoniker": "Lab_4\\Armor.cs",
-              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\Armor.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\Armor.cs",
               "RelativeToolTip": "Lab_4\\Armor.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAcwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,9 +173,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\Enemy.cs",
               "RelativeDocumentMoniker": "Lab_4\\Enemy.cs",
-              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\Enemy.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\Enemy.cs",
               "RelativeToolTip": "Lab_4\\Enemy.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAADwv1kAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -185,9 +185,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "GameLogger.cs",
-              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\GameLogger.cs",
+              "DocumentMoniker": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\GameLogger.cs",
               "RelativeDocumentMoniker": "Lab_4\\GameLogger.cs",
-              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_4 \u2014 \u043A\u043E\u043F\u0438\u044F\\Lab_4\\GameLogger.cs",
+              "ToolTip": "C:\\Users\\vpch8\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u041F \u041B\u0430\u0431\\Lab_5\\Lab_4\\GameLogger.cs",
               "RelativeToolTip": "Lab_4\\GameLogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
